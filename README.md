@@ -49,7 +49,7 @@ The original dataset also contains customer identifiers and surname fields, whic
 ## 🛠️ Tools & Technologies
 
 - **Python:** Pandas, NumPy, Matplotlib, Seaborn
-- **SQL:** MySQL
+- **SQL:** PostgreSQL
 - **Power BI:** Interactive dashboards, DAX measures, data visualization
 - **Jupyter Notebook / Google Colab:** Data analysis and exploration
 - **GitHub:** Project documentation and version control
@@ -89,7 +89,7 @@ Performed exploratory analysis to understand customer churn patterns across diff
 - Matplotlib
 - Seaborn
 
-### 3. SQL Analysis — MySQL
+### 3. SQL Analysis — PostgreSQL
 
 Used SQL to answer business questions and perform customer segmentation.
 
@@ -199,7 +199,7 @@ It showcases the ability to transform raw customer data into meaningful insights
 
 ---
 
-## 👨‍💻 Author
+## 👨‍💻 Author : Abhishek Tigadi
 
 **Data Analytics Portfolio Project**
 
